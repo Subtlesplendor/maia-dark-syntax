@@ -1,4 +1,4 @@
-# maia--dark-syntax theme
+# maia-dark-syntax theme
 
 A short description of your theme.
 
