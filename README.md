@@ -1,6 +1,6 @@
 # maia-dark-syntax theme
 
-This is an atom syntax theme with the same colorscheme used in the Cinnamon version of the Manjaro distribution.
+This is an atom syntax theme. It aims to have the same colorscheme as the Cinnamon version of the Manjaro distribution.
 
 
 # maia-dark-syntax
