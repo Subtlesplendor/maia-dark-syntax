@@ -1,6 +1,8 @@
 # maia-dark-syntax theme
 
-A short description of your theme.
+This is an atom syntax theme with the same colorscheme used in the Cinnamon version of the Manjaro distribution.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+
 # maia-dark-syntax
+Here is an example image:
+<img src="https://github.com/Subtlesplendor/maia-dark-syntax/blob/master/example.png?raw=true" width="500">
