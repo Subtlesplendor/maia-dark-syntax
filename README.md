@@ -4,6 +4,6 @@ This is an atom syntax theme with the same colorscheme used in the Cinnamon vers
 
 
 # maia-dark-syntax
-Here is an example image:
+Here is an example image, with some Haskell code:
 
 <img src="https://github.com/Subtlesplendor/maia-dark-syntax/blob/master/example.png?raw=true" width="500">
